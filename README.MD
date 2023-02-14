@@ -42,13 +42,6 @@
 
 
 
-<!-- 🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
-
-<!-- OR -->
-
-
-
-<!-- TODO: Update at the end of every day with your  -->
 
 
 ### Interested ?
@@ -64,16 +57,7 @@
 
 <h1>My experience</h1>
 
-<!-- EXPERIENCE I -->
-<!-- <h2 align="left">Project Kujali</h2>
 
-<p align="right"><b>2023</b></p>
-
-
-</p>
-<br/> -->
-
-<!-- Link in this table your actual contributions -->
 
 <!-- ### My contributions -->
 <!--
