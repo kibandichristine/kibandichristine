@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/christine-kibandi/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Christine Kibandi's LinkedIn" /></a> 
   <span>&nbsp;</span>
   <!-- Twitter -->
-  <!-- <!-- <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a>  -->
+  <!-- <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a>  -->
   <span>&nbsp;</span> -->
   <!-- Stack overflow -->
   <a href="https://stackoverflow.com/users/18145370/kibandi" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="kibandi Stack Overflow" /></a>
@@ -40,13 +40,13 @@
 
 💬 I'm an expert on **software development, data science and machine learning.**
 
-### My work
+
 
 <!-- 🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
 
 <!-- OR -->
 
-🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
+
 
 <!-- TODO: Update at the end of every day with your  -->
 
