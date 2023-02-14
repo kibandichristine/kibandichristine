@@ -79,13 +79,7 @@
 
 <p align="right"><b>2022 - 2023</b></p>
 
-<p>
-  The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
-</p>
-<p>
-  <!-- Add summary of your own contributions -->
 
-I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
 
 </p>
 <br/> -->
