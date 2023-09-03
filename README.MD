@@ -16,19 +16,15 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/christine-kibandi/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Christine Kibandi's LinkedIn" /></a> 
   <span>&nbsp;</span>
-  <!-- Twitter -->
-  <!-- <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a>  -->
-  <span>&nbsp;</span> -->
+  
   <!-- Stack overflow -->
   <a href="https://stackoverflow.com/users/18145370/kibandi" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="kibandi Stack Overflow" /></a>
 
   <!-- Other badges -->
   <!-- 
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
-</p>
-
 <br/>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Christine Kibandi&show_icons=true)
+[![GitHub Repo Stars](https://img.shields.io/github/stars/kibandichristine?style=for-the-badge&color=blue)](https://github.com/kibandichristine)
+
 
 
 <!--
