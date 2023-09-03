@@ -23,7 +23,6 @@
   <!-- Other badges -->
   <!-- 
 <br/>
-[![GitHub Repo Stars](https://img.shields.io/github/stars/kibandichristine?style=for-the-badge&color=blue)](https://github.com/kibandichristine)
 
 
 
@@ -36,15 +35,15 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software development, data science and machine learning.**
+💬 I am a passionate **software developer**, and also great at **data science and machine learning.**
 
 
 
 
 
-### Interested ?
+### Interested?
 
-📫 Reach me on **kibandichristine@gmail.com**
+📫 Reach me at **kibandichristine@gmail.com**
 
 <br />
 
@@ -61,7 +60,8 @@
 <!-- 
 
 ## 1. GitHub Stats
-[![GitHub Repo Stars](https://img.shields.io/github/stars/kibandichristine?style=for-the-badge&color=blue)](https://github.com/kibandichristine)
+[![GitHub Repo Stars]
+<a href= https://img.shields.io/github/stars/kibandichristine?style=for-the-badge&color=blue)](https://github.com/kibandichristine) 
 
 
 ## 2. Most Used Languages
