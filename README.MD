@@ -65,14 +65,15 @@
 <!-- 
 
 ## 1. GitHub Stats
+[![GitHub Repo Stars](https://img.shields.io/github/stars/kibandichristine?style=for-the-badge&color=blue)](https://github.com/kibandichristine)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kibandichristine&show_icons=true)
 
 ## 2. Most Used Languages
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kibandichristine&theme=blue-green)
 
 ## 3. Contributors Badge
+
 
 ![Your Repository's Stats](https://contrib.rocks/image?repo=kibandichristine/Python)
 
