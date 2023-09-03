@@ -1,10 +1,7 @@
-                                           <center> Hello there! 👋,  i am Christine Kibandi.
+                                    <h>Hello there! 👋,  i am Christine Kibandi.<h1>
 <br>
-I am a passionate **software developer** and also great at **data science and machine learning** <br>
+# I am a passionate software developer and also great at data science and machine learning <br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christine-kibandi) 
 
 
 # 📊 GitHub Stats:
