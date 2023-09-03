@@ -1,4 +1,4 @@
-                                    <h>Hello there! 👋,  i am Christine Kibandi.<h1>
+                                    <h1> Hello there! 👋,  i am Christine Kibandi.</h1>
 <br>
 # I am a passionate software developer and also great at data science and machine learning <br>
 
