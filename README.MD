@@ -1,4 +1,4 @@
-                                             Hello there! 👋,  i am Christine Kibandi.
+                                     Hello there! 👋,  i am Christine Kibandi.
 <br>
                            I am a passionate software developer and also great at data science and machine learning <br>
 
