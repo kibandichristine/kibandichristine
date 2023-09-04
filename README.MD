@@ -1,6 +1,6 @@
                                              Hello there! 👋,  i am Christine Kibandi.
 <br>
-                         I am a passionate software developer and also great at data science and machine learning <br>
+                           I am a passionate software developer and also great at data science and machine learning <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kibandichristine&icon=0&color=0)](https://visitcount.itsvg.in)
